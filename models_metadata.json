@@ -1,0 +1,12 @@
+{
+  "models": [
+    {
+      "model_name": "",
+      "irrelevant_columns":["device number","type","warranty","office date","office time in","defect / damage type","responsible party","final status","month","source","carrier"]
+    },
+    {
+      "model_name": "MLP",
+       "irrelevant_columns":["device number","type","warranty","office date","office time in","defect / damage type","responsible party","final status","month","source"]
+    }
+  ]
+}
